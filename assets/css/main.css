@@ -12,7 +12,10 @@
     position: block;
     margin: 2px auto;
     }
-
+.dropdown {
+  position: fixed;
+  z-index: 9999;
+}
 .nav-content {
     max-width: 1024px;
     margin: 0 auto;
